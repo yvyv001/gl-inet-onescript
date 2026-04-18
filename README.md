@@ -166,7 +166,6 @@ read -p "请输入glibox局域网 IP: " ip && wget -O /tmp/gl.sh http://$ip:1505
 
 
 ### 鸣谢
-- [鸣谢GL论坛大佬——iBelieve](https://forum.gl-inet.cn/forum.php?mod=viewthread&tid=3129&extra=page%3D1) 
 - https://github.com/VMatrices
 - [高级卸载插件作者VedioTalk](https://xz.vumstar.com/)
 - iStoreOS https://site.istoreos.com
